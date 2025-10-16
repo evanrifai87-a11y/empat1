@@ -1,0 +1,12 @@
+[
+    {
+        "nama": "Budi",
+        "umur": 17,
+        "kelas": "XI IPA 2",
+        "hobi": [
+            "membaca",
+            "berenang",
+            "bermain gitar"
+        ]
+    }
+]
